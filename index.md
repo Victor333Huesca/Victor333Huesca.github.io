@@ -21,7 +21,7 @@ For futher details about what have been done during this internship, you can see
 I worked at the Montréal University on summer 2018 where I did bioinformatic stuff.
 My contribution was to imagine and implement an ammalgamation algorithm in order to improve the LBIT's [GATC](https://github.com/UdeM-LBIT/GATC) software. The amalgamation consist of infering the best genetree possible from a custer of genetree and the species tree.
 
-A few slides about the amalgamation processus can be found here: https://1drv.ms/p/s!AoDeBEP2ychVm4lFRAeGy3IjUgmUsA
+A few slides about the amalgamation processus can be found here: [https://1drv.ms/p/s!AoDeBEP2ychVm4lFRAeGy3IjUgmUsA](https://1drv.ms/p/s!AoDeBEP2ychVm4lFRAeGy3IjUgmUsA)
 
 
 ## Projects
@@ -32,6 +32,6 @@ A few slides about the amalgamation processus can be found here: https://1drv.ms
 
 ## Contact
 
-- Email: victor.huesca@univ-tlse3.fr
+- Email: [victor.huesca@univ-tlse3.fr](victor.huesca@univ-tlse3.fr)
 - Github: [Victor333Huesca](https://github.com/Victor333Huesca)
 - Twitter: [Victor333Huesca](https://twitter.com/Victor333Huesca)
